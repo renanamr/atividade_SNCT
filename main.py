@@ -1,6 +1,6 @@
 def somar(valor1, valor2):
     # Soma do commit 6
-    return valor1 + valor2
+    return valor1 - valor2
 
 
 if __name__ == "__main__":
