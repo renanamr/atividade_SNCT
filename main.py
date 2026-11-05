@@ -1,5 +1,5 @@
 def somar(valor1, valor2):
-    # Soma do commit 39
+    # Soma do commit 40
     return valor1 - valor2
 
 
